@@ -1,4 +1,5 @@
-#Test Repo
+Test Repo
+==========
 
 I wanted to test git
 --------------------
